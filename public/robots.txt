@@ -1,0 +1,50 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://mercadolivre.scpneus.shop/sitemap.xml
+
+# Crawl-delay: 1
+# Crawl budget optimization
+Crawl-delay: 1
+
+# Allow specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Block unnecessary paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /checkout*
+Disallow: /cart/
+Disallow: /account/
+
+# Allow product pages
+Allow: /produto/
+Allow: /categoria/
+
+# Preferred URL parameters
+Disallow: /*?* 
+Allow: /*?page=
+Allow: /*?sort=
+Allow: /*?category=
+
+# Block tracking parameters
+Disallow: /*?utm_*
+Disallow: /*?fbclid*
+Disallow: /*?gclid*
+
+# Host and canonical
+Host: https://mercadolivre.scpneus.shop
+
+# Crawl rate for specific bots
+User-agent: *
+Crawl-delay: 1
+
+Request-rate: 1/1
+Visit-time: 0100-1300
+Request-rate: 2/1m 1300-0100

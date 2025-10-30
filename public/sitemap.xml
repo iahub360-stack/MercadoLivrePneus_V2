@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Category Pages -->
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/categoria/pneus-carro</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/categoria/pneus-suv</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/categoria/pneus-caminhao</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/categoria/pneus-moto</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/categoria/pneus-4x4</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/categoria/pneus-esportivo</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/categoria/pneus-agricola</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Product Pages (Sample - XBRI Products) -->
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/produto/xbri-brutus-ta-205-70r15</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/produto/xbri-brutus-ta-245-70r16</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/produto/xbri-brutus-ta-ii-265-70r16</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/produto/xbri-brutus-ta-ii-265-75r16</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/produto/xbri-brutus-ta-285-75r16</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Product Pages (Sample - BFGoodrich Products) -->
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/produto/bfgoodrich-ko3-265-65r18</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/produto/bfgoodrich-ko3-265-70r18</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/produto/bfgoodrich-ko3-35x12-5r18</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/produto/bfgoodrich-ko3-285-65r18</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/produto/bfgoodrich-ko3-275-65r18</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Product Pages (Sample - Michelin Products) -->
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/produto/michelin-x-multi-z</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Static Pages -->
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/ofertas</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/ajuda</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/contato</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://mercadolivre.scpneus.shop/sobre</loc>
+        <lastmod>2025-06-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+</urlset>
