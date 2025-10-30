@@ -209,7 +209,7 @@ Para dúvidas ou suporte:
 - Verifique os logs no dashboard do Vercel
 - Teste a integração MercadoPago em ambiente de desenvolvimento
 
----
+----
 
 ## 📋 Fluxo do Usuário
 
