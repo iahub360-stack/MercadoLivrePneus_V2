@@ -3,11 +3,8 @@ import { ProductPageContent } from './ProductPageContent'
 
 async function getProduct(slug: string) {
   try {
-    // Use local API in development, production API in production
-    const isDev = process.env.NODE_ENV === 'development'
-    const apiUrl = isDev 
-      ? 'http://localhost:3000/api/products'
-      : `${process.env.NEXT_PUBLIC_API_URL}/api/products`
+    // Always use relative API path for both development and production
+    const apiUrl = '/api/products'
     
     console.log('Fetching products from:', apiUrl)
     
