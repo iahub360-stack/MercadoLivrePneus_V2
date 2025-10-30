@@ -35,7 +35,7 @@ export async function GET(request: NextRequest) {
           filteredProducts.sort((a, b) => b.price - a.price)
           break
         case 'rating':
-          filteredProducts.sort((a, b) => b.rating - a.rating)
+          filteredProducts.sort((a, b) => b.rating - a.price)
           break
         case 'name':
         default:
